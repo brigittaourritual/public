@@ -3402,7 +3402,7 @@ function getCookie(_0x509b52) {
   }
   return _0x2cccbe;
 }
-(updateCounter(), scrollTop(), cloneRemove(), cloneRemoveInput());
+(scrollTop(), cloneRemove(), cloneRemoveInput());
 const formlyUrlParams = new URLSearchParams(window[_0x191e96(0x224)]["search"]),
   formlySupportParam = formlyUrlParams["get"](_0x191e96(0x206)),
   showButton = formlySupportParam === _0x191e96(0x18a),
